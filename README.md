@@ -10,8 +10,8 @@
   <li>🔍 Exploring new technologies.</li>
   <li>🚀 Boldly pursuing possibilities.</li>
 </ul>
-<p align="left">
-  <img src="https://github.com/si-war/si-war/blob/main/images/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif" width="80">
+<p align="right">
+  <img src="https://github.com/si-war/si-war/blob/main/images/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif" width="40%">
 </p>
 
 <p align="center">
