@@ -1,30 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/si-war/si-war/blob/main/images/banner.png" width="100%">
+</p>
 
-<!--
-**si-war/si-war** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h2>👋 Asselama, Welcome to my GitHub profile! <img src="https://github.com/si-war/si-war/blob/main/images/banner.png" width="100"></h2>
+<h2 align="center">👋 Asselama, Welcome to my GitHub profile!</h2>
 <hr>
 <br>
 <ul>
-  <li>💻 I’m a passionate software engineering student dedicated to learning and building innovative solutions.</li>
-  <li>🔍 I love exploring new technologies and continuously improving my skills.</li>
-  <li>🚀 I'm determined to explore each possibility with boldness and passion.</li>
+  <li>💻 Passionate software engineering student.</li>
+  <li>🔍 Exploring new technologies.</li>
+  <li>🚀 Boldly pursuing possibilities.</li>
 </ul>
-<img src="https://github.com/si-war/si-war/blob/main/images/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif" width="40">
+<p align="left">
+  <img src="https://github.com/si-war/si-war/blob/main/images/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif" width="80">
+</p>
 
 <p align="center">
   <strong>📫 How to reach me</strong><br>
